@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class matrices {
 
     public static void main(String[] args) {
+        
         matrices objeto = new matrices();
         Scanner sc = new Scanner(System.in);
         String dato = "";
